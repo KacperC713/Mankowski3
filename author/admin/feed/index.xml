@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin, Autor w serwisie Miasteczko Mańkowskiego</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/admin/</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Mar 2023 13:32:34 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>polityka prywatnosci</title>
+		<link>/2023/03/19/polityka-prywatnosci/</link>
+					<comments>/2023/03/19/polityka-prywatnosci/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 19 Mar 2023 13:31:39 +0000</pubDate>
+				<category><![CDATA[Bez kategorii]]></category>
+		<guid isPermaLink="false">/?p=2113</guid>
+
+					<description><![CDATA[<p>Artykuł <a rel="nofollow" href="/2023/03/19/polityka-prywatnosci/">polityka prywatnosci</a> pochodzi z serwisu <a rel="nofollow" href="">Miasteczko Mańkowskiego</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a rel="nofollow" href="/2023/03/19/polityka-prywatnosci/">polityka prywatnosci</a> pochodzi z serwisu <a rel="nofollow" href="">Miasteczko Mańkowskiego</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/03/19/polityka-prywatnosci/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Witaj, świecie!</title>
+		<link>/2023/03/15/witaj-swiecie/</link>
+					<comments>/2023/03/15/witaj-swiecie/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 15 Mar 2023 21:29:03 +0000</pubDate>
+				<category><![CDATA[Bez kategorii]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+<p>Artykuł <a rel="nofollow" href="/2023/03/15/witaj-swiecie/">Witaj, świecie!</a> pochodzi z serwisu <a rel="nofollow" href="">Miasteczko Mańkowskiego</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Witamy w WordPressie. To jest twój pierwszy wpis. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+<p>Artykuł <a rel="nofollow" href="/2023/03/15/witaj-swiecie/">Witaj, świecie!</a> pochodzi z serwisu <a rel="nofollow" href="">Miasteczko Mańkowskiego</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/03/15/witaj-swiecie/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
